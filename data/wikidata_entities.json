@@ -1,0 +1,77 @@
+{
+  "covid-19": {
+    "qid": "Q84263196",
+    "label": "COVID-19",
+    "description": "infectious disease caused by SARS-CoV-2",
+    "facts": {
+      "caused_by": "SARS-CoV-2",
+      "instance_of": "infectious disease",
+      "first_outbreak": "December 2019",
+      "location_first_detected": "Wuhan, China"
+    }
+  },
+  "sars-cov-2": {
+    "qid": "Q82069695",
+    "label": "SARS-CoV-2",
+    "description": "strain of coronavirus that causes COVID-19",
+    "facts": {
+      "instance_of": "virus",
+      "causes": "COVID-19",
+      "discovered": "2019"
+    }
+  },
+  "mrna vaccine": {
+    "qid": "Q98270496",
+    "label": "mRNA vaccine",
+    "description": "vaccine using messenger RNA",
+    "facts": {
+      "mechanism": "instructs cells to produce spike protein",
+      "does_not": "alter DNA",
+      "does_not_contain": "live virus"
+    }
+  },
+  "pfizer vaccine": {
+    "qid": "Q100120146",
+    "label": "Pfizer-BioNTech COVID-19 vaccine",
+    "facts": {
+      "type": "mRNA vaccine",
+      "approved_by": [
+        "FDA",
+        "EMA",
+        "WHO"
+      ],
+      "efficacy": "approximately 95%"
+    }
+  },
+  "moderna vaccine": {
+    "qid": "Q100119755",
+    "label": "Moderna COVID-19 vaccine",
+    "facts": {
+      "type": "mRNA vaccine",
+      "approved_by": [
+        "FDA",
+        "EMA",
+        "WHO"
+      ],
+      "efficacy": "approximately 94%"
+    }
+  },
+  "hydroxychloroquine": {
+    "qid": "Q421094",
+    "label": "Hydroxychloroquine",
+    "facts": {
+      "approved_use": "malaria, lupus, rheumatoid arthritis",
+      "covid_status": "not recommended for COVID-19 treatment",
+      "fda_warning": "risk of heart problems"
+    }
+  },
+  "ivermectin": {
+    "qid": "Q422212",
+    "label": "Ivermectin",
+    "facts": {
+      "approved_use": "parasitic infections",
+      "covid_status": "not approved for COVID-19",
+      "who_recommendation": "only in clinical trials"
+    }
+  }
+}

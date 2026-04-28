@@ -1,0 +1,51 @@
+# Core ML/NLP
+torch>=1.9.0
+sentence-transformers>=2.2.0
+spacy>=3.0.0
+
+# Language processing
+langdetect>=1.0.9
+deep-translator>=1.9.0
+
+# Near-duplicate detection
+datasketch>=1.5.0
+
+# Data handling
+pandas>=1.3.0
+numpy>=1.19.0
+
+# Web interface
+streamlit>=1.20.0
+
+# Document/Web processing
+beautifulsoup4>=4.9.0
+requests>=2.25.0
+
+# Image processing (OCR)
+easyocr>=1.6.0
+Pillow>=9.0.0
+
+# ============================================
+# OLLAMA SETUP (Local LLM):
+# ============================================
+# 1. Install Ollama: https://ollama.ai/download
+# 2. Start Ollama (runs automatically after install)
+# 3. Pull a model:
+#    ollama pull gemma2:2b
+#    OR
+#    ollama pull llama3.1:8b
+# 
+# The system works WITHOUT Ollama but with reduced accuracy.
+# ============================================
+
+# ============================================
+# POST-INSTALL:
+# ============================================
+# python -m spacy download en_core_web_sm
+# ============================================
+
+# ============================================
+# TO RUN:
+# ============================================
+# streamlit run app.py
+# ============================================

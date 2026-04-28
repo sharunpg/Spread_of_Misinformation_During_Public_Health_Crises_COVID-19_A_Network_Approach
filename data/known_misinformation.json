@@ -1,0 +1,285 @@
+[
+  {
+    "text": "COVID-19 is a hoax created by governments",
+    "source": "WHO_MYTHBUSTER",
+    "category": "conspiracy"
+  },
+  {
+    "text": "5G networks spread coronavirus",
+    "source": "WHO_MYTHBUSTER",
+    "category": "conspiracy"
+  },
+  {
+    "text": "COVID-19 vaccines contain microchips for tracking",
+    "source": "WHO_MYTHBUSTER",
+    "category": "conspiracy"
+  },
+  {
+    "text": "Bill Gates created COVID-19 for population control",
+    "source": "WHO_MYTHBUSTER",
+    "category": "conspiracy"
+  },
+  {
+    "text": "The pandemic was planned by world governments",
+    "source": "WHO_MYTHBUSTER",
+    "category": "conspiracy"
+  },
+  {
+    "text": "Drinking bleach or disinfectant cures COVID-19",
+    "source": "WHO_MYTHBUSTER",
+    "category": "false_cure"
+  },
+  {
+    "text": "Drinking hot water kills coronavirus",
+    "source": "WHO_MYTHBUSTER",
+    "category": "false_cure"
+  },
+  {
+    "text": "Garlic prevents COVID-19 infection",
+    "source": "WHO_MYTHBUSTER",
+    "category": "false_cure"
+  },
+  {
+    "text": "Garlic cures COVID-19",
+    "source": "WHO_MYTHBUSTER",
+    "category": "false_cure"
+  },
+  {
+    "text": "Antibiotics can treat COVID-19",
+    "source": "WHO_MYTHBUSTER",
+    "category": "false_cure"
+  },
+  {
+    "text": "Hydroxychloroquine is a proven cure for COVID-19",
+    "source": "CDC_MYTHBUSTER",
+    "category": "false_cure"
+  },
+  {
+    "text": "Ivermectin cures COVID-19",
+    "source": "CDC_MYTHBUSTER",
+    "category": "false_cure"
+  },
+  {
+    "text": "Turmeric cures COVID-19",
+    "source": "WHO_MYTHBUSTER",
+    "category": "false_cure"
+  },
+  {
+    "text": "Ginger cures coronavirus",
+    "source": "WHO_MYTHBUSTER",
+    "category": "false_cure"
+  },
+  {
+    "text": "Vitamin C cures COVID-19",
+    "source": "WHO_MYTHBUSTER",
+    "category": "false_cure"
+  },
+  {
+    "text": "Essential oils cure COVID-19",
+    "source": "WHO_MYTHBUSTER",
+    "category": "false_cure"
+  },
+  {
+    "text": "Colloidal silver cures coronavirus",
+    "source": "CDC_MYTHBUSTER",
+    "category": "false_cure"
+  },
+  {
+    "text": "MMS miracle mineral solution cures COVID",
+    "source": "FDA_WARNING",
+    "category": "false_cure"
+  },
+  {
+    "text": "Drinking cow urine prevents COVID-19",
+    "source": "WHO_MYTHBUSTER",
+    "category": "false_cure"
+  },
+  {
+    "text": "Cocaine kills coronavirus",
+    "source": "WHO_MYTHBUSTER",
+    "category": "false_cure"
+  },
+  {
+    "text": "COVID-19 vaccines change your DNA",
+    "source": "CDC_MYTHBUSTER",
+    "category": "vaccine_myth"
+  },
+  {
+    "text": "COVID-19 vaccines cause infertility",
+    "source": "WHO_MYTHBUSTER",
+    "category": "vaccine_myth"
+  },
+  {
+    "text": "Natural immunity is better than vaccine immunity",
+    "source": "CDC_MYTHBUSTER",
+    "category": "vaccine_myth"
+  },
+  {
+    "text": "Vaccines give you COVID-19",
+    "source": "WHO_MYTHBUSTER",
+    "category": "vaccine_myth"
+  },
+  {
+    "text": "COVID vaccines contain fetal tissue",
+    "source": "CDC_MYTHBUSTER",
+    "category": "vaccine_myth"
+  },
+  {
+    "text": "mRNA vaccines are gene therapy",
+    "source": "CDC_MYTHBUSTER",
+    "category": "vaccine_myth"
+  },
+  {
+    "text": "Vaccines cause autism",
+    "source": "CDC_MYTHBUSTER",
+    "category": "vaccine_myth"
+  },
+  {
+    "text": "COVID-19 only affects old people",
+    "source": "WHO_MYTHBUSTER",
+    "category": "false_claim"
+  },
+  {
+    "text": "Children cannot get COVID-19",
+    "source": "WHO_MYTHBUSTER",
+    "category": "false_claim"
+  },
+  {
+    "text": "Summer heat kills coronavirus",
+    "source": "WHO_MYTHBUSTER",
+    "category": "false_claim"
+  },
+  {
+    "text": "Cold weather kills coronavirus",
+    "source": "WHO_MYTHBUSTER",
+    "category": "false_claim"
+  },
+  {
+    "text": "Masks cause oxygen deficiency",
+    "source": "CDC_MYTHBUSTER",
+    "category": "false_claim"
+  },
+  {
+    "text": "Masks cause carbon dioxide poisoning",
+    "source": "CDC_MYTHBUSTER",
+    "category": "false_claim"
+  },
+  {
+    "text": "Masks are dangerous for children",
+    "source": "WHO_MYTHBUSTER",
+    "category": "false_claim"
+  },
+  {
+    "text": "You can tell if someone has COVID by looking at them",
+    "source": "WHO_MYTHBUSTER",
+    "category": "false_claim"
+  },
+  {
+    "text": "If you can hold your breath for 10 seconds you dont have COVID",
+    "source": "WHO_MYTHBUSTER",
+    "category": "false_claim"
+  },
+  {
+    "text": "COVID-19 spreads through mosquito bites",
+    "source": "WHO_MYTHBUSTER",
+    "category": "false_transmission"
+  },
+  {
+    "text": "Houseflies transmit coronavirus",
+    "source": "WHO_MYTHBUSTER",
+    "category": "false_transmission"
+  },
+  {
+    "text": "5G towers spread COVID-19",
+    "source": "WHO_MYTHBUSTER",
+    "category": "false_transmission"
+  },
+  {
+    "text": "Mobile phone networks spread the virus",
+    "source": "WHO_MYTHBUSTER",
+    "category": "false_transmission"
+  },
+  {
+    "text": "Packages from China spread COVID-19",
+    "source": "WHO_MYTHBUSTER",
+    "category": "false_transmission"
+  },
+  {
+    "text": "Hand sanitizers are dangerous",
+    "source": "WHO_MYTHBUSTER",
+    "category": "false_claim"
+  },
+  {
+    "text": "Alcohol sanitizers spread COVID",
+    "source": "WHO_MYTHBUSTER",
+    "category": "false_claim"
+  },
+  {
+    "text": "Touching hand sanitizer bottles gives you COVID",
+    "source": "WHO_MYTHBUSTER",
+    "category": "false_claim"
+  },
+  {
+    "text": "busters - 9 September 2020 The COVID-19 virus CANNOT be spread through mosquito bitesTo date there has been no information nor evidence to suggest that the new coronavirus could be transmitted by mosquitoes.",
+    "source": "WHO_MYTHBUSTER",
+    "source_url": "https://www.who.int/emergencies/diseases/novel-coronavirus-2019/advice-for-public/myth-busters",
+    "category": "transmission",
+    "added_at": "2026-01-21T19:27:23.126738"
+  },
+  {
+    "text": "COVID-19 vaccines can give you COVID-19",
+    "source": "CDC_MYTHBUSTER",
+    "source_url": "https://www.cdc.gov/coronavirus/2019-ncov/",
+    "category": "vaccine_myth",
+    "added_at": "2026-01-21T19:27:25.525414"
+  },
+  {
+    "text": "The mRNA vaccines are gene therapy",
+    "source": "CDC_MYTHBUSTER",
+    "source_url": "https://www.cdc.gov/coronavirus/2019-ncov/",
+    "category": "vaccine_myth",
+    "added_at": "2026-01-21T19:27:25.525414"
+  },
+  {
+    "text": "COVID-19 vaccines contain fetal tissue",
+    "source": "CDC_MYTHBUSTER",
+    "source_url": "https://www.cdc.gov/coronavirus/2019-ncov/",
+    "category": "vaccine_myth",
+    "added_at": "2026-01-21T19:27:25.525414"
+  },
+  {
+    "text": "If I've had COVID-19, I don't need to get vaccinated",
+    "source": "CDC_MYTHBUSTER",
+    "source_url": "https://www.cdc.gov/coronavirus/2019-ncov/",
+    "category": "vaccine_myth",
+    "added_at": "2026-01-21T19:27:25.525414"
+  },
+  {
+    "text": "Masks are dangerous and cause CO2 poisoning",
+    "source": "CDC_MYTHBUSTER",
+    "source_url": "https://www.cdc.gov/coronavirus/2019-ncov/",
+    "category": "false_claim",
+    "added_at": "2026-01-21T19:27:25.525414"
+  },
+  {
+    "text": "COVID-19 was made in a laboratory",
+    "source": "CDC_MYTHBUSTER",
+    "source_url": "https://www.cdc.gov/coronavirus/2019-ncov/",
+    "category": "conspiracy",
+    "added_at": "2026-01-21T19:27:25.525414"
+  },
+  {
+    "text": "The COVID-19 death count is exaggerated",
+    "source": "CDC_MYTHBUSTER",
+    "source_url": "https://www.cdc.gov/coronavirus/2019-ncov/",
+    "category": "conspiracy",
+    "added_at": "2026-01-21T19:27:25.525414"
+  },
+  {
+    "text": "Herd immunity can be achieved without vaccines",
+    "source": "CDC_MYTHBUSTER",
+    "source_url": "https://www.cdc.gov/coronavirus/2019-ncov/",
+    "category": "false_claim",
+    "added_at": "2026-01-21T19:27:25.525414"
+  }
+]

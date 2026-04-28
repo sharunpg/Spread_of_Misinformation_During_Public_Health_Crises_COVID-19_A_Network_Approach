@@ -1,0 +1,518 @@
+[
+  {
+    "text": "COVID-19 vaccines are safe and effective at preventing severe illness",
+    "source": "WHO",
+    "category": "vaccines"
+  },
+  {
+    "text": "COVID-19 vaccines reduce hospitalization and death rates significantly",
+    "source": "CDC",
+    "category": "vaccines"
+  },
+  {
+    "text": "mRNA vaccines do not alter human DNA",
+    "source": "CDC",
+    "category": "vaccines"
+  },
+  {
+    "text": "Vaccines undergo rigorous clinical trials before approval",
+    "source": "WHO",
+    "category": "vaccines"
+  },
+  {
+    "text": "Mild side effects like fatigue and soreness are normal after vaccination",
+    "source": "NHS",
+    "category": "vaccines"
+  },
+  {
+    "text": "COVID-19 vaccines do not contain microchips",
+    "source": "WHO",
+    "category": "vaccines"
+  },
+  {
+    "text": "Vaccines help build immunity without causing the disease",
+    "source": "CDC",
+    "category": "vaccines"
+  },
+  {
+    "text": "Booster doses help maintain protection against COVID-19",
+    "source": "WHO",
+    "category": "vaccines"
+  },
+  {
+    "text": "COVID-19 spreads primarily through respiratory droplets",
+    "source": "WHO",
+    "category": "transmission"
+  },
+  {
+    "text": "The virus can spread through airborne transmission in poorly ventilated spaces",
+    "source": "CDC",
+    "category": "transmission"
+  },
+  {
+    "text": "COVID-19 does not spread through 5G networks",
+    "source": "WHO",
+    "category": "transmission"
+  },
+  {
+    "text": "The coronavirus is not transmitted through mosquito bites",
+    "source": "WHO",
+    "category": "transmission"
+  },
+  {
+    "text": "Wearing masks reduces transmission of COVID-19",
+    "source": "CDC",
+    "category": "prevention"
+  },
+  {
+    "text": "Social distancing helps prevent spread of coronavirus",
+    "source": "WHO",
+    "category": "prevention"
+  },
+  {
+    "text": "Proper hand hygiene reduces risk of infection",
+    "source": "CDC",
+    "category": "prevention"
+  },
+  {
+    "text": "Well-ventilated spaces reduce risk of airborne transmission",
+    "source": "WHO",
+    "category": "prevention"
+  },
+  {
+    "text": "Regular handwashing with soap and water helps prevent COVID-19",
+    "source": "WHO",
+    "category": "prevention"
+  },
+  {
+    "text": "Covering coughs and sneezes helps prevent spread of respiratory illnesses",
+    "source": "CDC",
+    "category": "prevention"
+  },
+  {
+    "text": "Alcohol-based hand sanitizers are safe and effective when used correctly",
+    "source": "WHO",
+    "category": "prevention"
+  },
+  {
+    "text": "Touching a communal bottle of hand sanitizer will not give you COVID-19",
+    "source": "WHO",
+    "category": "prevention"
+  },
+  {
+    "text": "Hand sanitizers with at least 60% alcohol are effective against COVID-19",
+    "source": "CDC",
+    "category": "prevention"
+  },
+  {
+    "text": "Using alcohol-based sanitizers is safe for adults and children",
+    "source": "WHO",
+    "category": "prevention"
+  },
+  {
+    "text": "Hand sanitizer bottles are safe to share",
+    "source": "WHO",
+    "category": "prevention"
+  },
+  {
+    "text": "COVID-19 is caused by the SARS-CoV-2 virus",
+    "source": "WHO",
+    "category": "disease"
+  },
+  {
+    "text": "COVID-19 can affect people of all ages",
+    "source": "NHS",
+    "category": "disease"
+  },
+  {
+    "text": "COVID-19 symptoms include fever, cough, and difficulty breathing",
+    "source": "CDC",
+    "category": "symptoms"
+  },
+  {
+    "text": "Loss of taste or smell can be a symptom of COVID-19",
+    "source": "NHS",
+    "category": "symptoms"
+  },
+  {
+    "text": "Most people recover from COVID-19 without special treatment",
+    "source": "WHO",
+    "category": "disease"
+  },
+  {
+    "text": "Some people experience long-term symptoms after COVID-19 infection",
+    "source": "NHS",
+    "category": "disease"
+  },
+  {
+    "text": "There is no proven home remedy that cures COVID-19",
+    "source": "WHO",
+    "category": "treatment"
+  },
+  {
+    "text": "Antibiotics do not work against viral infections like COVID-19",
+    "source": "WHO",
+    "category": "treatment"
+  },
+  {
+    "text": "Isolation helps prevent spread to others when infected",
+    "source": "CDC",
+    "category": "treatment"
+  },
+  {
+    "text": "Drinking water and staying hydrated supports overall health",
+    "source": "NHS",
+    "category": "treatment"
+  },
+  {
+    "text": "Rest and fluids help recovery from mild COVID-19",
+    "source": "CDC",
+    "category": "treatment"
+  },
+  {
+    "text": "Vitamin and mineral supplements cannot cure COVID-19",
+    "source": "WHO",
+    "category": "supplements"
+  },
+  {
+    "text": "Vitamins do not cure coronavirus",
+    "source": "WHO",
+    "category": "supplements"
+  },
+  {
+    "text": "Vitamin C does not cure COVID-19",
+    "source": "WHO",
+    "category": "supplements"
+  },
+  {
+    "text": "Vitamin D supplements do not prevent COVID-19 infection",
+    "source": "WHO",
+    "category": "supplements"
+  },
+  {
+    "text": "Zinc supplements do not cure coronavirus",
+    "source": "WHO",
+    "category": "supplements"
+  },
+  {
+    "text": "No supplement can cure or prevent COVID-19",
+    "source": "WHO",
+    "category": "supplements"
+  },
+  {
+    "text": "Herbal remedies do not cure COVID-19",
+    "source": "WHO",
+    "category": "supplements"
+  },
+  {
+    "text": "Turmeric does not cure COVID-19",
+    "source": "WHO",
+    "category": "supplements"
+  },
+  {
+    "text": "Ginger does not cure coronavirus",
+    "source": "WHO",
+    "category": "supplements"
+  },
+  {
+    "text": "Cold weather does not kill the coronavirus",
+    "source": "WHO",
+    "category": "myths_debunked"
+  },
+  {
+    "text": "Hot baths do not prevent COVID-19 infection",
+    "source": "WHO",
+    "category": "myths_debunked"
+  },
+  {
+    "text": "COVID-19 cannot be transmitted through houseflies",
+    "source": "WHO",
+    "category": "myths_debunked"
+  },
+  {
+    "text": "Ultraviolet lamps should not be used to disinfect hands or skin",
+    "source": "WHO",
+    "category": "myths_debunked"
+  },
+  {
+    "text": "Thermal scanners cannot detect COVID-19 in people without fever",
+    "source": "WHO",
+    "category": "myths_debunked"
+  },
+  {
+    "text": "Spraying alcohol or chlorine on the body does not kill viruses inside",
+    "source": "WHO",
+    "category": "myths_debunked"
+  },
+  {
+    "text": "Pneumonia vaccines do not protect against COVID-19",
+    "source": "WHO",
+    "category": "myths_debunked"
+  },
+  {
+    "text": "Regularly rinsing nose with saline does not prevent COVID-19",
+    "source": "WHO",
+    "category": "myths_debunked"
+  },
+  {
+    "text": "Eating garlic does not prevent COVID-19 infection",
+    "source": "WHO",
+    "category": "myths_debunked"
+  },
+  {
+    "text": "People of all ages can be infected by COVID-19",
+    "source": "WHO",
+    "category": "myths_debunked"
+  },
+  {
+    "text": "Drinking alcohol does not protect against COVID-19",
+    "source": "WHO",
+    "category": "myths_debunked"
+  },
+  {
+    "text": "Adding pepper to food does not prevent or cure COVID-19",
+    "source": "WHO",
+    "category": "myths_debunked"
+  },
+  {
+    "text": "Hydroxychloroquine is not a proven treatment for COVID-19",
+    "source": "WHO",
+    "category": "myths_debunked"
+  },
+  {
+    "text": "Ivermectin is not recommended for COVID-19 treatment outside clinical trials",
+    "source": "WHO",
+    "category": "myths_debunked"
+  },
+  {
+    "text": "Alcohol-based sanitizers are safe for everyone to use Alcohols in the sanitizers have not been shown to create any relevant health issues.",
+    "source": "WHO",
+    "source_url": "https://www.who.int/emergencies/diseases/novel-coronavirus-2019/advice-for-public/myth-busters",
+    "category": "prevention",
+    "added_at": "2026-01-21T19:27:23.127534"
+  },
+  {
+    "text": "Alcohol-based sanitizers can be used in religions where alcohol is prohibited Any manufactured substance developed to alleviate illness or contribute to better health is permitted by the Qur'an, including alcohol used as a medical agent.",
+    "source": "WHO",
+    "source_url": "https://www.who.int/emergencies/diseases/novel-coronavirus-2019/advice-for-public/myth-busters",
+    "category": "prevention",
+    "added_at": "2026-01-21T19:27:23.127556"
+  },
+  {
+    "text": "Alcohol-based sanitizers can be used in religions where alcohol is prohibited FACT: The amount of alcohol-based sanitizer you use matters Apply a palmful of alcohol-based sanitizer to cover all surfaces of your hands.",
+    "source": "WHO",
+    "source_url": "https://www.who.int/emergencies/diseases/novel-coronavirus-2019/advice-for-public/myth-busters",
+    "category": "prevention",
+    "added_at": "2026-01-21T19:27:23.127580"
+  },
+  {
+    "text": "It is safer to frequently clean your hands and not wear gloves Wearing gloves risks transferring germs from one surface to another and contaminating your hands when removing them.",
+    "source": "WHO",
+    "source_url": "https://www.who.int/emergencies/diseases/novel-coronavirus-2019/advice-for-public/myth-busters",
+    "category": "general",
+    "added_at": "2026-01-21T19:27:23.127599"
+  },
+  {
+    "text": "Touching a communal bottle of alcohol-based sanitizer will not infect you Once you've sanitized your hands, you have disinfected them from any germs that may have been on the bottle.",
+    "source": "WHO",
+    "source_url": "https://www.who.int/emergencies/diseases/novel-coronavirus-2019/advice-for-public/myth-busters",
+    "category": "prevention",
+    "added_at": "2026-01-21T19:27:23.127616"
+  },
+  {
+    "text": "An alcohol-based handrub is listed as a WHO essential medicine Clean hands protect patients, health workers, other caregivers and everyone from infection.",
+    "source": "WHO",
+    "source_url": "https://www.who.int/emergencies/diseases/novel-coronavirus-2019/advice-for-public/myth-busters",
+    "category": "prevention",
+    "added_at": "2026-01-21T19:27:23.127629"
+  },
+  {
+    "text": "Vitamin and mineral supplements cannot cure COVID-19 Micronutrients, such as vitamins D and C and zinc, are critical for a well-functioning immune system and play a vital role in promoting health and nutritional well-being.",
+    "source": "WHO",
+    "source_url": "https://www.who.int/emergencies/diseases/novel-coronavirus-2019/advice-for-public/myth-busters",
+    "category": "treatment",
+    "added_at": "2026-01-21T19:27:23.127645"
+  },
+  {
+    "text": "Water or swimming does not transmit the COVID-19 virusThe COVID-19 virus does not transmit through water while swimming.",
+    "source": "WHO",
+    "source_url": "https://www.who.int/emergencies/diseases/novel-coronavirus-2019/advice-for-public/myth-busters",
+    "category": "transmission",
+    "added_at": "2026-01-21T19:27:23.127655"
+  },
+  {
+    "text": "The likelihood of shoes spreading COVID-19 is very lowThe likelihood of COVID-19 being spread on shoes and infecting individuals is very low.",
+    "source": "WHO",
+    "source_url": "https://www.who.int/emergencies/diseases/novel-coronavirus-2019/advice-for-public/myth-busters",
+    "category": "transmission",
+    "added_at": "2026-01-21T19:27:23.127665"
+  },
+  {
+    "text": "The coronavirus disease (COVID-19) is caused by a virus, NOT by bacteriaThe virus that causes COVID-19 is in a family of viruses called Coronaviridae.",
+    "source": "WHO",
+    "source_url": "https://www.who.int/emergencies/diseases/novel-coronavirus-2019/advice-for-public/myth-busters",
+    "category": "general",
+    "added_at": "2026-01-21T19:27:23.127682"
+  },
+  {
+    "text": "The prolonged use of medical masks* when properly worn, DOES NOT cause CO2 intoxication nor oxygen deficiencyThe prolonged use of medical masks can be uncomfortable.",
+    "source": "WHO",
+    "source_url": "https://www.who.int/emergencies/diseases/novel-coronavirus-2019/advice-for-public/myth-busters",
+    "category": "prevention",
+    "added_at": "2026-01-21T19:27:23.127695"
+  },
+  {
+    "text": "Drinking alcohol does not protect you against COVID-19 and can be dangerousThe harmful use of alcohol increases your risk of health problems.",
+    "source": "WHO",
+    "source_url": "https://www.who.int/emergencies/diseases/novel-coronavirus-2019/advice-for-public/myth-busters",
+    "category": "prevention",
+    "added_at": "2026-01-21T19:27:23.127707"
+  },
+  {
+    "text": "Adding pepper to your soup or other meals DOES NOT prevent or cure COVID-19Hot peppers in your food, though very tasty, cannot prevent or cure COVID-19.",
+    "source": "WHO",
+    "source_url": "https://www.who.int/emergencies/diseases/novel-coronavirus-2019/advice-for-public/myth-busters",
+    "category": "treatment",
+    "added_at": "2026-01-21T19:27:23.127720"
+  },
+  {
+    "text": "Spraying and introducing bleach or another disinfectant into your body WILL NOT protect you against COVID-19 and can be dangerousDo not under any circumstance spray or introduce bleach or any other disinfectant into your body.",
+    "source": "WHO",
+    "source_url": "https://www.who.int/emergencies/diseases/novel-coronavirus-2019/advice-for-public/myth-busters",
+    "category": "prevention",
+    "added_at": "2026-01-21T19:27:23.127737"
+  },
+  {
+    "text": "Drinking methanol, ethanol or bleach DOES NOT prevent or cure COVID-19 and can be extremely dangerousMethanol, ethanol, and bleach are poisons.",
+    "source": "WHO",
+    "source_url": "https://www.who.int/emergencies/diseases/novel-coronavirus-2019/advice-for-public/myth-busters",
+    "category": "treatment",
+    "added_at": "2026-01-21T19:27:23.127749"
+  },
+  {
+    "text": "Exposing yourself to the sun or temperatures higher than 25\u00b0C DOES NOT protect you from COVID-19You can catch COVID-19, no matter how sunny or hot the weather is.",
+    "source": "WHO",
+    "source_url": "https://www.who.int/emergencies/diseases/novel-coronavirus-2019/advice-for-public/myth-busters",
+    "category": "transmission",
+    "added_at": "2026-01-21T19:27:23.127763"
+  },
+  {
+    "text": "The COVID-19 virus can spread in hot and humid climatesThe best way to protect yourself against COVID-19 is by maintaining physical distance of at least 1 metre from others and frequently cleaning your hands.",
+    "source": "WHO",
+    "source_url": "https://www.who.int/emergencies/diseases/novel-coronavirus-2019/advice-for-public/myth-busters",
+    "category": "transmission",
+    "added_at": "2026-01-21T19:27:23.127776"
+  },
+  {
+    "text": "Cold weather and snow CANNOT kill the COVID-19 virusThere is no reason to believe that cold weather can kill the new coronavirus or other diseases.",
+    "source": "WHO",
+    "source_url": "https://www.who.int/emergencies/diseases/novel-coronavirus-2019/advice-for-public/myth-busters",
+    "category": "general",
+    "added_at": "2026-01-21T19:27:23.127793"
+  },
+  {
+    "text": "Hand dryers are NOT effective in killing the COVID-19 virusHand dryers are not effective in killing the COVID-19 virus.",
+    "source": "WHO",
+    "source_url": "https://www.who.int/emergencies/diseases/novel-coronavirus-2019/advice-for-public/myth-busters",
+    "category": "general",
+    "added_at": "2026-01-21T19:27:23.127808"
+  },
+  {
+    "text": "People of all ages can be infected by the COVID-19 virusOlder people and younger people can be infected by the COVID-19 virus.",
+    "source": "WHO",
+    "source_url": "https://www.who.int/emergencies/diseases/novel-coronavirus-2019/advice-for-public/myth-busters",
+    "category": "general",
+    "added_at": "2026-01-21T19:27:23.127822"
+  },
+  {
+    "text": "Antibiotics CANNOT prevent or treat COVID-19Antibiotics work only against bacteria, not viruses.",
+    "source": "WHO",
+    "source_url": "https://www.who.int/emergencies/diseases/novel-coronavirus-2019/advice-for-public/myth-busters",
+    "category": "treatment",
+    "added_at": "2026-01-21T19:27:23.127832"
+  },
+  {
+    "text": "COVID-19 vaccines are safe and effective",
+    "source": "CDC",
+    "source_url": "https://www.cdc.gov/coronavirus/2019-ncov/",
+    "category": "vaccines",
+    "added_at": "2026-01-21T19:27:25.525414"
+  },
+  {
+    "text": "mRNA vaccines do not change your DNA",
+    "source": "CDC",
+    "source_url": "https://www.cdc.gov/coronavirus/2019-ncov/",
+    "category": "vaccines",
+    "added_at": "2026-01-21T19:27:25.525414"
+  },
+  {
+    "text": "COVID-19 vaccines were developed using proven scientific methods",
+    "source": "CDC",
+    "source_url": "https://www.cdc.gov/coronavirus/2019-ncov/",
+    "category": "vaccines",
+    "added_at": "2026-01-21T19:27:25.525414"
+  },
+  {
+    "text": "Mild side effects after vaccination are normal signs of protection building",
+    "source": "CDC",
+    "source_url": "https://www.cdc.gov/coronavirus/2019-ncov/",
+    "category": "vaccines",
+    "added_at": "2026-01-21T19:27:25.525414"
+  },
+  {
+    "text": "People of all ages can be infected with COVID-19",
+    "source": "CDC",
+    "source_url": "https://www.cdc.gov/coronavirus/2019-ncov/",
+    "category": "general",
+    "added_at": "2026-01-21T19:27:25.525414"
+  },
+  {
+    "text": "COVID-19 spreads mainly through respiratory droplets",
+    "source": "CDC",
+    "source_url": "https://www.cdc.gov/coronavirus/2019-ncov/",
+    "category": "transmission",
+    "added_at": "2026-01-21T19:27:25.525414"
+  },
+  {
+    "text": "Wearing a well-fitting mask helps protect you and others",
+    "source": "CDC",
+    "source_url": "https://www.cdc.gov/coronavirus/2019-ncov/",
+    "category": "prevention",
+    "added_at": "2026-01-21T19:27:25.525414"
+  },
+  {
+    "text": "Washing hands frequently helps prevent infection",
+    "source": "CDC",
+    "source_url": "https://www.cdc.gov/coronavirus/2019-ncov/",
+    "category": "prevention",
+    "added_at": "2026-01-21T19:27:25.525414"
+  },
+  {
+    "text": "Staying home when sick helps prevent spread to others",
+    "source": "CDC",
+    "source_url": "https://www.cdc.gov/coronavirus/2019-ncov/",
+    "category": "prevention",
+    "added_at": "2026-01-21T19:27:25.525414"
+  },
+  {
+    "text": "Good ventilation reduces risk of COVID-19 transmission",
+    "source": "CDC",
+    "source_url": "https://www.cdc.gov/coronavirus/2019-ncov/",
+    "category": "prevention",
+    "added_at": "2026-01-21T19:27:25.525414"
+  },
+  {
+    "text": "COVID-19 can cause long-term health effects in some people",
+    "source": "CDC",
+    "source_url": "https://www.cdc.gov/coronavirus/2019-ncov/",
+    "category": "general",
+    "added_at": "2026-01-21T19:27:25.525414"
+  },
+  {
+    "text": "Testing helps identify infection early",
+    "source": "CDC",
+    "source_url": "https://www.cdc.gov/coronavirus/2019-ncov/",
+    "category": "general",
+    "added_at": "2026-01-21T19:27:25.525414"
+  }
+]
